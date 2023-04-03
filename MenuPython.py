@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  6 09:42:12 2022
 
-@author: HITSS
+@author: Jenniffer
 """
 
 from conexion_oracle import conexion_bd_oracle
